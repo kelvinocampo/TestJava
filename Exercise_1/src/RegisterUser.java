@@ -59,7 +59,7 @@ public class RegisterUser {
                 String ageText = inputAge.getText();
                 try {
                     byte age = Byte.parseByte(ageText);
-                    JOptionPane.showMessageDialog(register, "Usuario " + name + " registrado exitosamente!");
+                    JOptionPane.showMessageDialog(register, "Usuario " + name + " registrado exitosamente!,"+ age);
                 } catch (NumberFormatException ex) {
                     JOptionPane.showMessageDialog(register, "Por favor, ingrese una edad válida (0-127).", "Error", JOptionPane.ERROR_MESSAGE);
                 }
