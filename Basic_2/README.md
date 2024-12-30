@@ -1,6 +1,6 @@
 # Test POO Java
 
-Este proyecto es una prueba rápida para explorar y practicar varios aspectos fundamentales de Java, tales como bucles, funciones, colecciones y la interacción con el usuario mediante cuadros de diálogo gráficos.
+Este proyecto es una prueba basica de POO en java como clases, metodos y contructores entre otros
 
 ## Características del código
 

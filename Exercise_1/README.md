@@ -1,4 +1,3 @@
-
 # Taller de Sorteo de Premios
 
 Este proyecto es una aplicación para gestionar el sorteo de premios entre personas registradas. La aplicación está construida utilizando Java Swing para la interfaz gráfica de usuario y `ArrayList` para el almacenamiento de datos en memoria.
